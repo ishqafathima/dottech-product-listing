@@ -47,22 +47,22 @@ src/
 ## How to Run the Project
 First , clone the repository:
 
-````terminal
+``terminal
 git clone https://github.com/ishqafathima/dottech-product-listing
 
 Go to the project folder:
 
-```terminal 
+``terminal 
 cd dottech-product-listing;
 
 Install the required packages:
 
-```terminal 
+``terminal 
 npm install 
 
 Start the development server:
 
-``` npm run dev
+`` npm run dev
 
 Then open the local URL shown in the terminal
  http://localhost:5173/
@@ -80,6 +80,19 @@ I tested the layout at different screen sizes to make sure the product cards and
 - Desktop
 - Tablet
 - Mobile
+
+## Screenshots
+
+### Desktop View
+
+<img src="./screenshots/1.png" alt="Desktop view" width="800">
+<img src="./screenshots/2.png" alt="Desktop view" width="800">
+
+### Mobile View
+<img src="./screenshots/4.png" alt="Mobile view" width="375">
+
+### Dark Mode
+<img src="./screenshots/3.png" alt="Dark mode view" width="800">
 
 ## Author 
 Fathima Ishka
